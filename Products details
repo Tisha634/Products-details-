@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset=UTF-8">
+  <meta name="viewport"content="width=device-width,initial-scale=1.0">
+  <title>Products details</title>
+</head>
+<body>
+  <h1 style="color:black;background-color:pink;text-align:center;padding:4px;">Welcome to my page</h1>
+  <section class="Products"style="display:flex;gap:2px;padding:2px;">
+    <div style="width:100px;border:1px solid gray;border-radius:5px;padding:5px;">
+      <img src="https://i.ibb.co.com/7NLrb2C/IMG-20250122-131204.jpg" alt="IMG-20250122-131204"width="100%"height="100px">
+      <p><b>Black shirt</b></p>
+      <p style="color:gray;">Men</p>
+      <p><s>$5.73</s>  $4.71</p>
+    </div>
+     <div style="width:100px;border:1px solid gray;border-radius:5px;padding:5px;">
+      <img src="https://i.ibb.co.com/JHbbtbq/IMG-20250122-131251.jpg" alt="IMG-20250122-131251"width="100%"height="100px">
+      <p><b>Black Watch</b></p>
+      <p style="color:gray;">Men</p>
+      <p><s>$3.28</s>  $2.5</p>
+    </div>
+     <div style="width:100px;border:1px solid gray;border-radius:5px;padding:5px;">
+      <img src="https://i.ibb.co.com/p1q23D2/IMG-20250122-131828.jpg" alt="IMG-20250122-131828"width="100%"height="100px">
+      <p><b>Pink watch</b></p>
+      <p style="color:gray;">Women</p>
+      <p><s>$3.28</s>  $2.5</p>
+    </div>
+  </section>
+</body>
+</html>
